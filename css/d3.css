@@ -1,0 +1,165 @@
+#map {
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+
+#details {
+    border: solid 1px #eee;
+	  padding: 20px;
+    background-color: #f5f5f5;
+  	position: absolute;
+    height: 250px;
+    width: 0px;
+  	bottom: 0px;
+    left:16%;
+}
+
+#footerlicense {
+  position: absolute;
+  bottom: 0px;
+  padding: 5px;
+  font-size: small;
+  text-align: justify;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+
+.constituency {
+    stroke: #fff;
+    stroke-width: -0.25px;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+
+/* tooltip */
+.hidden {
+    display: none;
+}
+
+div.tooltip {   
+    color: #222;
+    background: #fff;
+    padding: .5em;
+    text-shadow: #f5f5f5 0 1px 0;
+    border-radius: 2px; 
+    box-shadow: 0px 0px 2px 0px #a6a6a6; 
+    opacity: 0.9; 
+    position: absolute;
+}
+
+/* click to zoom */
+
+.active {
+    stroke: #000;
+    stroke-width: 0.5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;    
+}
+
+.ui-autocomplete {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  float: left;
+  display: none;
+  min-width: 160px;
+  _width: 160px;
+  padding: 4px;
+  margin: 2px 0 0 0;
+  list-style: none;
+  background-color: #ffffff;
+  border-color: #ccc;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  *border-right-width: 2px;
+  *border-bottom-width: 2px;
+
+  .ui-menu-item > a.ui-corner-all {
+    display: block; 
+    padding: 3px 15px;
+    clear: both;
+    font-weight: normal;
+    line-height: 18px;
+    color: #555555;
+    white-space: nowrap;
+
+
+  }
+}
+
+.ui-widget-content .ui-state-focus {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #0088cc;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    background-image: none;
+}
+
+  .ui-autocomplete-category {
+    font-weight: bold;
+    padding: .2em .4em;
+    margin: .8em 0 .2em;
+    line-height: 1.5;
+  }
+
+  .label-alpha {
+  background-color: #d53880;
+  border-radius: 0px;
+}
+
+button { width: 100%; box-sizing: border-box; }
+
+
+/*Lightbox d3 css */
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis.bottom path {
+  display: none;
+}
+
+.y.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 3px;
+}
+
+.axis .minor line {
+  stroke: #777;
+  stroke-dasharray: 2,2;
+}

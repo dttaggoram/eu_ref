@@ -1,0 +1,3058 @@
+[
+  {
+    "ONS Area Code": "E06000031",
+    "Local Counting Area": "Peterborough",
+    "VotesIn": 50,
+    "VotesOut": 60,
+    "Spoilt": 5,
+    "Turnout": 115
+  },
+  {
+    "ONS Area Code": "E06000032",
+    "Local Counting Area": "Luton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000033",
+    "Local Counting Area": "Southend-on-Sea",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000034",
+    "Local Counting Area": "Thurrock",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000055",
+    "Local Counting Area": "Bedford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000056",
+    "Local Counting Area": "Central Bedfordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000008",
+    "Local Counting Area": "Cambridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000009",
+    "Local Counting Area": "East Cambridgeshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000010",
+    "Local Counting Area": "Fenland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000011",
+    "Local Counting Area": "Huntingdonshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000012",
+    "Local Counting Area": "South Cambridgeshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000066",
+    "Local Counting Area": "Basildon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000067",
+    "Local Counting Area": "Braintree",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000068",
+    "Local Counting Area": "Brentwood",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000069",
+    "Local Counting Area": "Castle Point",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000070",
+    "Local Counting Area": "Chelmsford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000071",
+    "Local Counting Area": "Colchester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000072",
+    "Local Counting Area": "Epping Forest",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000073",
+    "Local Counting Area": "Harlow",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000074",
+    "Local Counting Area": "Maldon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000075",
+    "Local Counting Area": "Rochford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000076",
+    "Local Counting Area": "Tendring",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000077",
+    "Local Counting Area": "Uttlesford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000095",
+    "Local Counting Area": "Broxbourne",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000096",
+    "Local Counting Area": "Dacorum",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000098",
+    "Local Counting Area": "Hertsmere",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000099",
+    "Local Counting Area": "North Hertfordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000102",
+    "Local Counting Area": "Three Rivers",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000103",
+    "Local Counting Area": "Watford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000143",
+    "Local Counting Area": "Breckland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000144",
+    "Local Counting Area": "Broadland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000145",
+    "Local Counting Area": "Great Yarmouth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000146",
+    "Local Counting Area": "King's Lynn and West Norfolk",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000147",
+    "Local Counting Area": "North Norfolk",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000148",
+    "Local Counting Area": "Norwich",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000149",
+    "Local Counting Area": "South Norfolk",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000200",
+    "Local Counting Area": "Babergh",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000201",
+    "Local Counting Area": "Forest Heath",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000202",
+    "Local Counting Area": "Ipswich",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000203",
+    "Local Counting Area": "Mid Suffolk",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000204",
+    "Local Counting Area": "St Edmundsbury",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000205",
+    "Local Counting Area": "Suffolk Coastal",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000206",
+    "Local Counting Area": "Waveney",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000240",
+    "Local Counting Area": "St Albans",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000241",
+    "Local Counting Area": "Welwyn Hatfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000242",
+    "Local Counting Area": "East Hertfordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000243",
+    "Local Counting Area": "Stevenage",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000015",
+    "Local Counting Area": "Derby",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000016",
+    "Local Counting Area": "Leicester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000017",
+    "Local Counting Area": "Rutland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000018",
+    "Local Counting Area": "Nottingham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000032",
+    "Local Counting Area": "Amber Valley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000033",
+    "Local Counting Area": "Bolsover",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000034",
+    "Local Counting Area": "Chesterfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000035",
+    "Local Counting Area": "Derbyshire Dales",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000036",
+    "Local Counting Area": "Erewash",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000037",
+    "Local Counting Area": "High Peak",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000038",
+    "Local Counting Area": "North East Derbyshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000039",
+    "Local Counting Area": "South Derbyshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000129",
+    "Local Counting Area": "Blaby",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000130",
+    "Local Counting Area": "Charnwood",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000131",
+    "Local Counting Area": "Harborough",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000132",
+    "Local Counting Area": "Hinckley and Bosworth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000133",
+    "Local Counting Area": "Melton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000134",
+    "Local Counting Area": "North West Leicestershire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000135",
+    "Local Counting Area": "Oadby and Wigston",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000136",
+    "Local Counting Area": "Boston",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000137",
+    "Local Counting Area": "East Lindsey",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000138",
+    "Local Counting Area": "Lincoln",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000139",
+    "Local Counting Area": "North Kesteven",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000140",
+    "Local Counting Area": "South Holland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000141",
+    "Local Counting Area": "South Kesteven",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000142",
+    "Local Counting Area": "West Lindsey",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000150",
+    "Local Counting Area": "Corby",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000151",
+    "Local Counting Area": "Daventry",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000152",
+    "Local Counting Area": "East Northamptonshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000153",
+    "Local Counting Area": "Kettering",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000154",
+    "Local Counting Area": "Northampton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000155",
+    "Local Counting Area": "South Northamptonshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000156",
+    "Local Counting Area": "Wellingborough",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000170",
+    "Local Counting Area": "Ashfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000171",
+    "Local Counting Area": "Bassetlaw",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000172",
+    "Local Counting Area": "Broxtowe",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000173",
+    "Local Counting Area": "Gedling",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000174",
+    "Local Counting Area": "Mansfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000175",
+    "Local Counting Area": "Newark and Sherwood",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000176",
+    "Local Counting Area": "Rushcliffe",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000001",
+    "Local Counting Area": "City of London",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000002",
+    "Local Counting Area": "Barking and Dagenham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000003",
+    "Local Counting Area": "Barnet",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000004",
+    "Local Counting Area": "Bexley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000005",
+    "Local Counting Area": "Brent",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000006",
+    "Local Counting Area": "Bromley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000007",
+    "Local Counting Area": "Camden",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000008",
+    "Local Counting Area": "Croydon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000009",
+    "Local Counting Area": "Ealing",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000010",
+    "Local Counting Area": "Enfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000011",
+    "Local Counting Area": "Greenwich",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000012",
+    "Local Counting Area": "Hackney",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000013",
+    "Local Counting Area": "Hammersmith and Fulham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000014",
+    "Local Counting Area": "Haringey",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000015",
+    "Local Counting Area": "Harrow",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000016",
+    "Local Counting Area": "Havering",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000017",
+    "Local Counting Area": "Hillingdon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000018",
+    "Local Counting Area": "Hounslow",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000019",
+    "Local Counting Area": "Islington",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000020",
+    "Local Counting Area": "Kensington and Chelsea",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000021",
+    "Local Counting Area": "Kingston upon Thames",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000022",
+    "Local Counting Area": "Lambeth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000023",
+    "Local Counting Area": "Lewisham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000024",
+    "Local Counting Area": "Merton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000025",
+    "Local Counting Area": "Newham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000026",
+    "Local Counting Area": "Redbridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000027",
+    "Local Counting Area": "Richmond upon Thames",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000028",
+    "Local Counting Area": "Southwark",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000029",
+    "Local Counting Area": "Sutton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000030",
+    "Local Counting Area": "Tower Hamlets",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000031",
+    "Local Counting Area": "Waltham Forest",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000032",
+    "Local Counting Area": "Wandsworth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E09000033",
+    "Local Counting Area": "Westminster",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000001",
+    "Local Counting Area": "Hartlepool",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000002",
+    "Local Counting Area": "Middlesbrough",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000003",
+    "Local Counting Area": "Redcar and Cleveland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000004",
+    "Local Counting Area": "Stockton-on-Tees",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000005",
+    "Local Counting Area": "Darlington",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000047",
+    "Local Counting Area": "County Durham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000057",
+    "Local Counting Area": "Northumberland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000021",
+    "Local Counting Area": "Newcastle upon Tyne",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000022",
+    "Local Counting Area": "North Tyneside",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000023",
+    "Local Counting Area": "South Tyneside",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000024",
+    "Local Counting Area": "Sunderland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000037",
+    "Local Counting Area": "Gateshead",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000006",
+    "Local Counting Area": "Halton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000007",
+    "Local Counting Area": "Warrington",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000008",
+    "Local Counting Area": "Blackburn with Darwen",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000009",
+    "Local Counting Area": "Blackpool",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000049",
+    "Local Counting Area": "Cheshire East",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000050",
+    "Local Counting Area": "Cheshire West and Chester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000026",
+    "Local Counting Area": "Allerdale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000027",
+    "Local Counting Area": "Barrow-in-Furness",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000028",
+    "Local Counting Area": "Carlisle",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000029",
+    "Local Counting Area": "Copeland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000030",
+    "Local Counting Area": "Eden",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000031",
+    "Local Counting Area": "South Lakeland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000117",
+    "Local Counting Area": "Burnley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000118",
+    "Local Counting Area": "Chorley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000119",
+    "Local Counting Area": "Fylde",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000120",
+    "Local Counting Area": "Hyndburn",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000121",
+    "Local Counting Area": "Lancaster",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000122",
+    "Local Counting Area": "Pendle",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000123",
+    "Local Counting Area": "Preston",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000124",
+    "Local Counting Area": "Ribble Valley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000125",
+    "Local Counting Area": "Rossendale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000126",
+    "Local Counting Area": "South Ribble",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000127",
+    "Local Counting Area": "West Lancashire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000128",
+    "Local Counting Area": "Wyre",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000001",
+    "Local Counting Area": "Bolton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000002",
+    "Local Counting Area": "Bury",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000003",
+    "Local Counting Area": "Manchester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000004",
+    "Local Counting Area": "Oldham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000005",
+    "Local Counting Area": "Rochdale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000006",
+    "Local Counting Area": "Salford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000007",
+    "Local Counting Area": "Stockport",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000008",
+    "Local Counting Area": "Tameside",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000009",
+    "Local Counting Area": "Trafford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000010",
+    "Local Counting Area": "Wigan",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000011",
+    "Local Counting Area": "Knowsley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000012",
+    "Local Counting Area": "Liverpool",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000013",
+    "Local Counting Area": "St. Helens",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000014",
+    "Local Counting Area": "Sefton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000015",
+    "Local Counting Area": "Wirral",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "N92000002",
+    "Local Counting Area": "Northern Ireland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000005",
+    "Local Counting Area": "Clackmannanshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000006",
+    "Local Counting Area": "Dumfries and Galloway",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000008",
+    "Local Counting Area": "East Ayrshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000010",
+    "Local Counting Area": "East Lothian",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000011",
+    "Local Counting Area": "East Renfrewshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000013",
+    "Local Counting Area": "Eilean Siar",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000014",
+    "Local Counting Area": "Falkirk",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000015",
+    "Local Counting Area": "Fife",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000017",
+    "Local Counting Area": "Highland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000018",
+    "Local Counting Area": "Inverclyde",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000019",
+    "Local Counting Area": "Midlothian",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000020",
+    "Local Counting Area": "Moray",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000021",
+    "Local Counting Area": "North Ayrshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000023",
+    "Local Counting Area": "Orkney Islands",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000024",
+    "Local Counting Area": "Perth and Kinross",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000026",
+    "Local Counting Area": "Scottish Borders",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000027",
+    "Local Counting Area": "Shetland Islands",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000028",
+    "Local Counting Area": "South Ayrshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000029",
+    "Local Counting Area": "South Lanarkshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000030",
+    "Local Counting Area": "Stirling",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000033",
+    "Local Counting Area": "Aberdeen City",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000034",
+    "Local Counting Area": "Aberdeenshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000035",
+    "Local Counting Area": "Argyll and Bute",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000036",
+    "Local Counting Area": "City of Edinburgh",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000038",
+    "Local Counting Area": "Renfrewshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000039",
+    "Local Counting Area": "West Dunbartonshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000040",
+    "Local Counting Area": "West Lothian",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000041",
+    "Local Counting Area": "Angus",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000042",
+    "Local Counting Area": "Dundee City",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000044",
+    "Local Counting Area": "North Lanarkshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000045",
+    "Local Counting Area": "East Dunbartonshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "S12000046",
+    "Local Counting Area": "Glasgow City",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000035",
+    "Local Counting Area": "Medway",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000036",
+    "Local Counting Area": "Bracknell Forest",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000037",
+    "Local Counting Area": "West Berkshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000038",
+    "Local Counting Area": "Reading",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000039",
+    "Local Counting Area": "Slough",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000040",
+    "Local Counting Area": "Windsor and Maidenhead",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000041",
+    "Local Counting Area": "Wokingham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000042",
+    "Local Counting Area": "Milton Keynes",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000043",
+    "Local Counting Area": "Brighton and Hove",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000044",
+    "Local Counting Area": "Portsmouth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000045",
+    "Local Counting Area": "Southampton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000046",
+    "Local Counting Area": "Isle of Wight",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000004",
+    "Local Counting Area": "Aylesbury Vale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000005",
+    "Local Counting Area": "Chiltern",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000006",
+    "Local Counting Area": "South Bucks",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000007",
+    "Local Counting Area": "Wycombe",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000061",
+    "Local Counting Area": "Eastbourne",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000062",
+    "Local Counting Area": "Hastings",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000063",
+    "Local Counting Area": "Lewes",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000064",
+    "Local Counting Area": "Rother",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000065",
+    "Local Counting Area": "Wealden",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000084",
+    "Local Counting Area": "Basingstoke and Deane",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000085",
+    "Local Counting Area": "East Hampshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000086",
+    "Local Counting Area": "Eastleigh",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000087",
+    "Local Counting Area": "Fareham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000088",
+    "Local Counting Area": "Gosport",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000089",
+    "Local Counting Area": "Hart",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000090",
+    "Local Counting Area": "Havant",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000091",
+    "Local Counting Area": "New Forest",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000092",
+    "Local Counting Area": "Rushmoor",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000093",
+    "Local Counting Area": "Test Valley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000094",
+    "Local Counting Area": "Winchester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000105",
+    "Local Counting Area": "Ashford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000106",
+    "Local Counting Area": "Canterbury",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000107",
+    "Local Counting Area": "Dartford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000108",
+    "Local Counting Area": "Dover",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000109",
+    "Local Counting Area": "Gravesham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000110",
+    "Local Counting Area": "Maidstone",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000111",
+    "Local Counting Area": "Sevenoaks",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000112",
+    "Local Counting Area": "Shepway",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000113",
+    "Local Counting Area": "Swale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000114",
+    "Local Counting Area": "Thanet",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000115",
+    "Local Counting Area": "Tonbridge and Malling",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000116",
+    "Local Counting Area": "Tunbridge Wells",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000177",
+    "Local Counting Area": "Cherwell",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000178",
+    "Local Counting Area": "Oxford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000179",
+    "Local Counting Area": "South Oxfordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000180",
+    "Local Counting Area": "Vale of White Horse",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000181",
+    "Local Counting Area": "West Oxfordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000207",
+    "Local Counting Area": "Elmbridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000208",
+    "Local Counting Area": "Epsom and Ewell",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000209",
+    "Local Counting Area": "Guildford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000210",
+    "Local Counting Area": "Mole Valley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000211",
+    "Local Counting Area": "Reigate and Banstead",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000212",
+    "Local Counting Area": "Runnymede",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000213",
+    "Local Counting Area": "Spelthorne",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000214",
+    "Local Counting Area": "Surrey Heath",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000215",
+    "Local Counting Area": "Tandridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000216",
+    "Local Counting Area": "Waverley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000217",
+    "Local Counting Area": "Woking",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000223",
+    "Local Counting Area": "Adur",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000224",
+    "Local Counting Area": "Arun",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000225",
+    "Local Counting Area": "Chichester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000226",
+    "Local Counting Area": "Crawley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000227",
+    "Local Counting Area": "Horsham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000228",
+    "Local Counting Area": "Mid Sussex",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000229",
+    "Local Counting Area": "Worthing",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000022",
+    "Local Counting Area": "Bath and North East Somerset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000023",
+    "Local Counting Area": "Bristol, City of",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000024",
+    "Local Counting Area": "North Somerset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000025",
+    "Local Counting Area": "South Gloucestershire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000026",
+    "Local Counting Area": "Plymouth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000027",
+    "Local Counting Area": "Torbay",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000028",
+    "Local Counting Area": "Bournemouth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000029",
+    "Local Counting Area": "Poole",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000030",
+    "Local Counting Area": "Swindon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000052",
+    "Local Counting Area": "Cornwall",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000053",
+    "Local Counting Area": "Isles of Scilly",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000054",
+    "Local Counting Area": "Wiltshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000040",
+    "Local Counting Area": "East Devon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000041",
+    "Local Counting Area": "Exeter",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000042",
+    "Local Counting Area": "Mid Devon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000043",
+    "Local Counting Area": "North Devon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000044",
+    "Local Counting Area": "South Hams",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000045",
+    "Local Counting Area": "Teignbridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000046",
+    "Local Counting Area": "Torridge",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000047",
+    "Local Counting Area": "West Devon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000048",
+    "Local Counting Area": "Christchurch",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000049",
+    "Local Counting Area": "East Dorset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000050",
+    "Local Counting Area": "North Dorset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000051",
+    "Local Counting Area": "Purbeck",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000052",
+    "Local Counting Area": "West Dorset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000053",
+    "Local Counting Area": "Weymouth and Portland",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000078",
+    "Local Counting Area": "Cheltenham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000079",
+    "Local Counting Area": "Cotswold",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000080",
+    "Local Counting Area": "Forest of Dean",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000081",
+    "Local Counting Area": "Gloucester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000082",
+    "Local Counting Area": "Stroud",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000083",
+    "Local Counting Area": "Tewkesbury",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000187",
+    "Local Counting Area": "Mendip",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000188",
+    "Local Counting Area": "Sedgemoor",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000189",
+    "Local Counting Area": "South Somerset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000190",
+    "Local Counting Area": "Taunton Deane",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000191",
+    "Local Counting Area": "West Somerset",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "GI",
+    "Local Counting Area": "Gibraltar",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000001",
+    "Local Counting Area": "Isle of Anglesey",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000002",
+    "Local Counting Area": "Gwynedd",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000003",
+    "Local Counting Area": "Conwy",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000004",
+    "Local Counting Area": "Denbighshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000005",
+    "Local Counting Area": "Flintshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000006",
+    "Local Counting Area": "Wrexham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000008",
+    "Local Counting Area": "Ceredigion",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000009",
+    "Local Counting Area": "Pembrokeshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000010",
+    "Local Counting Area": "Carmarthenshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000011",
+    "Local Counting Area": "Swansea",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000012",
+    "Local Counting Area": "Neath Port Talbot",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000013",
+    "Local Counting Area": "Bridgend",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000014",
+    "Local Counting Area": "Vale of Glamorgan",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000015",
+    "Local Counting Area": "Cardiff",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000016",
+    "Local Counting Area": "Rhondda Cynon Taf",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000018",
+    "Local Counting Area": "Caerphilly",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000019",
+    "Local Counting Area": "Blaenau Gwent",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000020",
+    "Local Counting Area": "Torfaen",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000021",
+    "Local Counting Area": "Monmouthshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000022",
+    "Local Counting Area": "Newport",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000023",
+    "Local Counting Area": "Powys",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "W06000024",
+    "Local Counting Area": "Merthyr Tydfil",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000019",
+    "Local Counting Area": "Herefordshire, County of",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000020",
+    "Local Counting Area": "Telford and Wrekin",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000021",
+    "Local Counting Area": "Stoke-on-Trent",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000051",
+    "Local Counting Area": "Shropshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000192",
+    "Local Counting Area": "Cannock Chase",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000193",
+    "Local Counting Area": "East Staffordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000194",
+    "Local Counting Area": "Lichfield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000195",
+    "Local Counting Area": "Newcastle-under-Lyme",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000196",
+    "Local Counting Area": "South Staffordshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000197",
+    "Local Counting Area": "Stafford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000198",
+    "Local Counting Area": "Staffordshire Moorlands",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000199",
+    "Local Counting Area": "Tamworth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000218",
+    "Local Counting Area": "North Warwickshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000219",
+    "Local Counting Area": "Nuneaton and Bedworth",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000220",
+    "Local Counting Area": "Rugby",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000221",
+    "Local Counting Area": "Stratford-on-Avon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000222",
+    "Local Counting Area": "Warwick",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000234",
+    "Local Counting Area": "Bromsgrove",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000235",
+    "Local Counting Area": "Malvern Hills",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000236",
+    "Local Counting Area": "Redditch",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000237",
+    "Local Counting Area": "Worcester",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000238",
+    "Local Counting Area": "Wychavon",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000239",
+    "Local Counting Area": "Wyre Forest",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000025",
+    "Local Counting Area": "Birmingham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000026",
+    "Local Counting Area": "Coventry",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000027",
+    "Local Counting Area": "Dudley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000028",
+    "Local Counting Area": "Sandwell",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000029",
+    "Local Counting Area": "Solihull",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000030",
+    "Local Counting Area": "Walsall",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000031",
+    "Local Counting Area": "Wolverhampton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000010",
+    "Local Counting Area": "Kingston upon Hull, City of",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000011",
+    "Local Counting Area": "East Riding of Yorkshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000012",
+    "Local Counting Area": "North East Lincolnshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000013",
+    "Local Counting Area": "North Lincolnshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E06000014",
+    "Local Counting Area": "York",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000163",
+    "Local Counting Area": "Craven",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000164",
+    "Local Counting Area": "Hambleton",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000165",
+    "Local Counting Area": "Harrogate",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000166",
+    "Local Counting Area": "Richmondshire",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000167",
+    "Local Counting Area": "Ryedale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000168",
+    "Local Counting Area": "Scarborough",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E07000169",
+    "Local Counting Area": "Selby",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000016",
+    "Local Counting Area": "Barnsley",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000017",
+    "Local Counting Area": "Doncaster",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000018",
+    "Local Counting Area": "Rotherham",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000019",
+    "Local Counting Area": "Sheffield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000032",
+    "Local Counting Area": "Bradford",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000033",
+    "Local Counting Area": "Calderdale",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000034",
+    "Local Counting Area": "Kirklees",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000035",
+    "Local Counting Area": "Leeds",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  },
+  {
+    "ONS Area Code": "E08000036",
+    "Local Counting Area": "Wakefield",
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
+  }
+]
