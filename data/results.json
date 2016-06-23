@@ -2,10 +2,10 @@
   {
     "ONS Area Code": "E06000031",
     "Local Counting Area": "Peterborough",
-    "VotesIn": 50,
-    "VotesOut": 60,
-    "Spoilt": 5,
-    "Turnout": 115
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
   },
   {
     "ONS Area Code": "E06000032",
@@ -458,18 +458,18 @@
   {
     "ONS Area Code": "E07000038",
     "Local Counting Area": "North East Derbyshire",
-    "VotesIn": 500,
-    "VotesOut": 500,
+    "VotesIn": 0,
+    "VotesOut": 0,
     "Spoilt": 0,
-    "Turnout": 1000
+    "Turnout": 0
   },
   {
     "ONS Area Code": "E07000039",
     "Local Counting Area": "South Derbyshire",
-    "VotesIn": 20000,
-    "VotesOut": 14000,
-    "Spoilt": 1000,
-    "Turnout": 35000
+    "VotesIn": 0,
+    "VotesOut": 0,
+    "Spoilt": 0,
+    "Turnout": 0
   },
   {
     "ONS Area Code": "E07000129",

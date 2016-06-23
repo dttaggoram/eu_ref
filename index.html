@@ -41,8 +41,8 @@
         </div>
         <div id="navbar">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Local Authority View</a></li>
-            <li><a href="#">Regional View</a></li>
+            <li><a id="ladbutton" href="#">Local Authority View</a></li>
+            <li><a id="regionbutton" href="#">Regional View</a></li>
           </ul>
         </div>
       </div>
@@ -50,12 +50,12 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div id="sidebar" class="col-md-2 sidebar">
+            <div id="sidebar" class="col-md-3 sidebar">
                 <div id='legend'></div>
                 <h3>Current Predictions</h3>
                 <table id="regiontable" class="table table-striped"></table>
             </div>
-            <div id="mainsection" class="col-md-offset-2 col-md-10">
+            <div id="mainsection" class="col-md-offset-3 col-md-9">
                 <div id='map'></div>
             </div>
         </div>
@@ -91,6 +91,7 @@
 
 //Hide MP information bar
 $("#details").hide();
+
 
 // create map
 
@@ -145,11 +146,6 @@ var svg = d3.select('#map').append('svg')
     .attr('height', height)
 ;
 
-var legend = d3.select('#legend').append('svg')
-    .attr('width', sidebarwidth)
-    .attr('height', "250")
-;
-
 var legendLinear = d3.legend.color()
   .shapeWidth(30)
   .cells(11)
@@ -163,7 +159,7 @@ var legendLinearTime = d3.legend.color()
   .cells(8)
   .orient('vertical')
   .labelFormat(d3.format(".02f"))
-  .title("Expect Time (AM)")
+  .title("Est. Time (AM)")
   .scale(lineartime);
 
 
@@ -297,9 +293,11 @@ tableheader = "<thead><tr><th>Reg.</th><th>In</th><th>Out</th><th>T/O</th><th>De
 $("#regiontable").html(tableheader+tablehtml+"<tr><th>Tot.</th><th>"+((totaldata.in/(totaldata.in+totaldata.out))*100).toFixed(1)+"%</th><th>"+((totaldata.out/(totaldata.in+totaldata.out))*100).toFixed(1)+"%</th><th>"+((totaldata.turnout/totaldata.electorate)*100).toFixed(1)+"%</th><th>"+totaldata.declared+"/382</th></tr></tbody>");
 
 
+data = laddata;
+
     // create a polygon for every constituency
     g.selectAll('.constituency')
-        .data(regiondata)
+        .data(data)
         .enter()
         .insert('path')
         // assign id from feature data
@@ -318,26 +316,28 @@ $("#regiontable").html(tableheader+tablehtml+"<tr><th>Tot.</th><th>"+((totaldata
         .call(drag);
 
 
-    legend.append("g")
+    svg.append("g")
       .attr("class", "legendLinear")
       .attr("transform", "translate(20,20)")
       .append("rect")
-      .style("fill","none")
+      .attr("transform", "translate(-20,-20)")
+      .style("fill","white")
       .attr("width","120")
-      .attr("height","290");
+      .attr("height","250");
 
-    legend.select(".legendLinear")
+    svg.select(".legendLinear")
         .call(legendLinear);
 
-    legend.append("g")
+    svg.append("g")
       .attr("class", "legendLinearTime")
       .attr("transform", "translate(120,20)")
       .append("rect")
-      .style("fill","none")
+      .attr("transform", "translate(-20,-20)")
+      .style("fill","white")
       .attr("width","120")
-      .attr("height","290");
+      .attr("height","250");
 
-    legend.select(".legendLinearTime")
+    svg.select(".legendLinearTime")
         .call(legendLinearTime);
 
 
@@ -433,6 +433,61 @@ $("#regiontable").html(tableheader+tablehtml+"<tr><th>Tot.</th><th>"+((totaldata
         .on("click",function(d) { return arrows([-1,-1])});
 
 
+//which map
+$( "#ladbutton" ).on( "click", function() {
+  data = laddata;
+
+  g.selectAll('.constituency').remove();
+
+      g.selectAll('.constituency')
+        .data(data)
+        .enter()
+        .insert('path')
+        // assign id from feature data
+        .attr('id', function(d) { return d['ONS Area Code']; })
+        .attr('d', path)
+        .attr('class', "constituency")
+        .style("fill",function(d) { 
+            if (d.totalvalid>0) {
+                return linear(d.in/d.totalvalid)
+            } else {
+                return lineartime(d.counttime); }
+            })
+        // zoom to click
+        .on("click",clicked)
+        .on("wheel",zoomed)
+        .call(drag);
+});
+
+$( "#regionbutton" ).on( "click", function() {
+  data = regiondata;
+
+  g.selectAll('.constituency').remove();
+
+      g.selectAll('.constituency')
+        .data(data)
+        .enter()
+        .insert('path')
+        // assign id from feature data
+        .attr('id', function(d) { return d['ONS Area Code']; })
+        .attr('d', path)
+        .attr('class', "constituency")
+        .style("fill",function(d) { 
+            if (d.totalvalid>0) {
+                return linear(d.in/d.totalvalid)
+            } else {
+                return lineartime(d.counttime); }
+            })
+        // zoom to click
+        .on("click",clicked)
+        .on("wheel",zoomed)
+        .call(drag);
+
+});
+
+
+
+
 }
 
 // click to zoom
@@ -463,6 +518,8 @@ function clicked(d) {
             centered = d;
 
             $("#details").width(width);
+            offset = 100/12*3;
+            $("#details").css('left',offset+"%")
             $("#details").show();          
 
         }
@@ -496,7 +553,7 @@ function clicked(d) {
 
 
         if (d.totalvalid==0) {
-            result = "Not Counted <small>Expected at "+d.counter+"</small>";
+            result = "Not Counted <small>Expected at "+d.counter+" - Electorate: "+d.electorate+"</small>";
         } else {
             d.in > d.out ? result = "REMAIN" : result = "LEAVE";
         }
@@ -582,6 +639,8 @@ function dragged(d) {
 function dragended(d) {
   d3.select(this).classed("dragging", false);
 }
+
+
 
     </script>
   </body>
