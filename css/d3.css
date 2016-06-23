@@ -1,10 +1,3 @@
-#map {
-    margin-left: -40px;
-    margin-right: -40px;
-    margin-top: -20px;
-    margin-bottom: -20px;
-}
-
 #details {
     border: solid 1px #eee;
 	  padding: 20px;
@@ -43,7 +36,6 @@
   pointer-events: all;
 }
 
-
 /* tooltip */
 .hidden {
     display: none;
@@ -66,7 +58,8 @@ div.tooltip {
     stroke: #000;
     stroke-width: 0.5px;
     stroke-linejoin: round;
-    stroke-linecap: round;    
+    stroke-linecap: round; 
+    z-index:1000;   
 }
 
 .ui-autocomplete {

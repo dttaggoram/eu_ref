@@ -458,18 +458,18 @@
   {
     "ONS Area Code": "E07000038",
     "Local Counting Area": "North East Derbyshire",
-    "VotesIn": 0,
-    "VotesOut": 0,
+    "VotesIn": 500,
+    "VotesOut": 500,
     "Spoilt": 0,
-    "Turnout": 0
+    "Turnout": 1000
   },
   {
     "ONS Area Code": "E07000039",
     "Local Counting Area": "South Derbyshire",
-    "VotesIn": 0,
-    "VotesOut": 0,
-    "Spoilt": 0,
-    "Turnout": 0
+    "VotesIn": 20000,
+    "VotesOut": 14000,
+    "Spoilt": 1000,
+    "Turnout": 35000
   },
   {
     "ONS Area Code": "E07000129",

@@ -8,7 +8,6 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
 
     <title>EU Referendum Results Map</title>
 
@@ -39,7 +38,12 @@
         <div class="navbar-header">
           <span class="label label-alpha">LIVE</span>
           <a class="navbar-brand" href="#">EU Referendum Results</a>
-
+        </div>
+        <div id="navbar">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Local Authority View</a></li>
+            <li><a href="#">Regional View</a></li>
+          </ul>
         </div>
       </div>
     </nav>
@@ -48,9 +52,10 @@
         <div class="row">
             <div id="sidebar" class="col-md-2 sidebar">
                 <div id='legend'></div>
+                <h3>Current Predictions</h3>
                 <table id="regiontable" class="table table-striped"></table>
             </div>
-            <div id="mainsection" class="col-md-offset-2 col-md-10 main">
+            <div id="mainsection" class="col-md-offset-2 col-md-10">
                 <div id='map'></div>
             </div>
         </div>
@@ -59,8 +64,8 @@
         <div class="row">
             <div class="col-sm-12 col-md-12">
                 <h1 id="lad"></h1>
-                <h2 id="result"></h2>
                 <p id="breakdown"></p>
+                <table id="resulttable" class="table table-striped"></table>
             </div>
         </div>
     </div>
@@ -69,7 +74,7 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.min.js"></script>
-    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+    <script src="js/jquery-ui.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
@@ -81,8 +86,8 @@
     <script src="js/topojson.v1.min.js"></script>
     <script src="js/d3.legend.min.js"></script>
 
-    
-    <script>
+   
+     <script>
 
 //Hide MP information bar
 $("#details").hide();
@@ -142,7 +147,7 @@ var svg = d3.select('#map').append('svg')
 
 var legend = d3.select('#legend').append('svg')
     .attr('width', sidebarwidth)
-    .attr('height', "290")
+    .attr('height', "250")
 ;
 
 var legendLinear = d3.legend.color()
@@ -170,11 +175,6 @@ svg.append("rect")
 var g = svg.append("g")
         .attr("transform","translate(0,0)");
 
-
-// tooltip
-var tooltip = d3.select('#map').append('div')
-    .attr('class', 'tooltip')
-;
 
 // load files
 queue()
@@ -218,11 +218,13 @@ function ready(error, laddata, local, regional,details,results) {
         if (str == "12") { str = 0 }
         str = parseFloat(str);
         d.counttime = str;
+        d.counter = featureDetailsData[0]["Count"];
         d.in = featureResultsData[0].VotesIn;
         d.out = featureResultsData[0].VotesOut;
         d.totalvalid = featureResultsData[0].VotesIn + featureResultsData[0].VotesOut;
         d.spoilt = featureResultsData[0].Spoilt;
         d.turnout = featureResultsData[0].Turnout;
+        d.turnoutpercentage = featureResultsData[0].Turnout/parseFloat((d["Provisional Referendum Electorate"]).replace(",",""));
         d.electorate = parseFloat((d["Provisional Referendum Electorate"]).replace(",",""));
         
     })
@@ -236,7 +238,8 @@ var regiondata = d3.nest()
         "out":d3.sum(leaves, function(d) { return d.out}), 
         "totalvalid":d3.sum(leaves, function(d) { return d.totalvalid}),
         "spoilt":d3.sum(leaves, function(d) { return d.spoilt}),
-        "turnout":d3.sum(leaves, function(d) { return d.turnout}), 
+        "turnout":d3.sum(leaves, function(d) { return d.turnout}),
+        "turnoutpercentage":d3.mean(leaves, function(d) { if (d.turnoutpercentage>0) {return d.turnoutpercentage}}), 
         "electorate":d3.sum(leaves, function(d) { return d.electorate}), 
         "declared":d3.sum(leaves, function(d) { if(d.in>0) {return 1;} else {return 0;}}), 
         "total":leaves.length,
@@ -260,28 +263,38 @@ var tablehtml;
         d.geometry = featureTopoData[0].geometry;
         d.properties = featureTopoData[0].properties;
 
-        d.inreal = d.values.in;
-        d.in = (d.values.in/d.values.totalvalid)*(d.values.turnout/d.values.electorate)*d.values.electorate;
-        d.outreal = d.values.out;
-        d.out = (d.values.out/d.values.totalvalid)*(d.values.turnout/d.values.electorate)*d.values.electorate;
-        d.totalvalidreal = d.values.totalvalid;
-        d.totalvalid = d.values.totalvalid*(d.values.turnout/d.values.electorate)*d.values.electorate;
+        d.in = d.values.in;
+        d.inpred = (d.values.in/d.values.totalvalid)*d.values.turnoutpercentage*d.values.electorate;
+        d.out = d.values.out;
+        d.outpred = (d.values.out/d.values.totalvalid)*d.values.turnoutpercentage*d.values.electorate;
+        d.totalvalid = d.values.totalvalid;
         d.spoilt = d.values.spoilt;
         d.turnout = d.values.turnout;
+        d.turnoutpred = d.values.turnoutpercentage*d.values.electorate;
         d.electorate = d.values.electorate;
         d.declared = d.values.declared;
         d.total = d.values.total;
         d.counttime = d.values.counttime;
 
-        tablehtml +="<tr><td>"+featureTopoData[0].properties.EER13NM.match(/\b(\w)/g).join('')+"</td><td>"+d.in.toFixed(0)+"%</td><td>"+d.out.toFixed(0)+"%</td><td>"+d.turnout+"%</td><td>"+d.declared+"/"+d.total+"</td>";
+        tablehtml +="<tr><td>"+featureTopoData[0].properties.EER13NM.match(/\b(\w)/g).join('')+"</td><td>"+((d.in/d.totalvalid)*100).toFixed(1)+"%</td><td>"+((d.out/d.totalvalid)*100).toFixed(1)+"%</td><td>"+((d.turnoutpred/d.electorate)*100).toFixed(1)+"%</td><td>"+d.declared+"/"+d.total+"</td>";
 
     });
 
+var totaldata = d3.nest()
+.rollup(function(leaves) { 
+    return {
+        "in":d3.sum(leaves, function(d) { return d.inpred}),
+        "out":d3.sum(leaves, function(d) { return d.outpred}),
+        "turnout":d3.sum(leaves, function(d) { return d.turnoutpred}), 
+        "electorate":d3.sum(leaves, function(d) { if(d.turnoutpred>0) {return d.electorate}}),
+        "declared":d3.sum(leaves, function(d) { return d.declared})
+    } 
+})
+.entries(regiondata);
+
 
 tableheader = "<thead><tr><th>Reg.</th><th>In</th><th>Out</th><th>T/O</th><th>Dec.</th></tr></thead><tbody>";
-$("#regiontable").html(tableheader+tablehtml+"</tbody>");
-
-console.log(regiondata);
+$("#regiontable").html(tableheader+tablehtml+"<tr><th>Tot.</th><th>"+((totaldata.in/(totaldata.in+totaldata.out))*100).toFixed(1)+"%</th><th>"+((totaldata.out/(totaldata.in+totaldata.out))*100).toFixed(1)+"%</th><th>"+((totaldata.turnout/totaldata.electorate)*100).toFixed(1)+"%</th><th>"+totaldata.declared+"/382</th></tr></tbody>");
 
 
     // create a polygon for every constituency
@@ -449,7 +462,7 @@ function clicked(d) {
             zoom.scale(k);
             centered = d;
 
-            $("#details").width(width+80);
+            $("#details").width(width);
             $("#details").show();          
 
         }
@@ -481,16 +494,25 @@ function clicked(d) {
         .duration(1250)
         .attr("transform", "translate(" + (zoom.translate()) + ")scale(" + (zoom.scale()) + ")");
 
-        $("#lad").html(d['Local Counting Area']);
+
         if (d.totalvalid==0) {
-            result = "Not counted";
+            result = "Not Counted <small>Expected at "+d.counter+"</small>";
         } else {
             d.in > d.out ? result = "REMAIN" : result = "LEAVE";
         }
-        $("#result").html(result);
 
-        details = "Remain: "+((d.in/d.totalvalid)*100).toFixed(0)+" | "+"Leave: "+((d.out/d.totalvalid)*100).toFixed(0)+" | "+"Turnout: "+(d.totalvalid/parseFloat(d["Provisional Referendum Electorate"])).toFixed(2)+"%";
-        $("#breakdown").html(details);
+        if (d['Local Counting Area']) {
+            title = d['Local Counting Area'];
+        } else {
+            title = d['Region Name'];
+        }
+
+        $("#lad").html(title+" - "+result);
+
+        details = "<thead><tr><th>In Vote</th><th>Out Vote</th><th>Valid Turnout of Electorate</th><th>Spoilt etc from Turnout</th><th>Total Turnout of Electorate</th></tr></thead>";
+        details += "<tbody><tr><td>"+((d.in/d.totalvalid)*100).toFixed(2)+"% ("+d.in+")</td><td>"+((d.out/d.totalvalid)*100).toFixed(2)+"% ("+d.out+")</td><td>"+((d.totalvalid/d.electorate)*100).toFixed(2)+"% ("+d.totalvalid+")</td><td>"+((d.spoilt/d.turnout)*100).toFixed(2)+"% ("+d.spoilt+")</td><td>"+((d.turnout/d.electorate)*100).toFixed(2)+"% ("+d.turnout+")</td></tr></tbody>";
+
+        $("#resulttable").html(details);
 
 }
 
