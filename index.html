@@ -178,7 +178,7 @@ queue()
     .defer(d3.json, "data/localmap.topojson")
     .defer(d3.json, "data/regionalmap.topojson")
     .defer(d3.csv, "data/countdetails.csv")
-    .defer(d3.json, "data/results.json")
+    .defer(d3.csv, "data/EU-referendum-result-data.csv")
     .await(ready) // ready refers to function below
 ;
 
@@ -201,7 +201,7 @@ function ready(error, laddata, local, regional,details,results) {
 
         featureResultsData = results.filter(
         function(n){ 
-            return d['ONS Area Code'] == n['ONS Area Code']
+            return d['ONS Area Code'] == n['Area_Code']
         })
         ;
         
@@ -215,13 +215,13 @@ function ready(error, laddata, local, regional,details,results) {
         str = parseFloat(str);
         d.counttime = str;
         d.counter = featureDetailsData[0]["Count"];
-        d.in = featureResultsData[0].VotesIn;
-        d.out = featureResultsData[0].VotesOut;
-        d.totalvalid = featureResultsData[0].VotesIn + featureResultsData[0].VotesOut;
-        d.spoilt = featureResultsData[0].Spoilt;
-        d.turnout = featureResultsData[0].Turnout;
-        d.turnoutpercentage = featureResultsData[0].Turnout/parseFloat((d["Provisional Referendum Electorate"]).replace(",",""));
-        d.electorate = parseFloat((d["Provisional Referendum Electorate"]).replace(",",""));
+        d.in = featureResultsData[0].Remain;
+        d.out = featureResultsData[0].Leave;
+        d.totalvalid = featureResultsData[0].Valid_Votes;
+        d.spoilt = featureResultsData[0].Rejected_Ballots;
+        d.turnout = featureResultsData[0].Votes_Cast;
+        d.turnoutpercentage = featureResultsData[0].Votes_Cast/featureResultsData[0].Electorate;
+        d.electorate = featureResultsData[0].Electorate;
         
     })
     ;
